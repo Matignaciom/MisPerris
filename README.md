@@ -8,6 +8,10 @@ Este es un proyecto web para una organización dedicada al rescate y adopción d
 - CSS (Bootstrap)
 - JavaScript (Bootstrap)
 
+## Desarrollado con
+
+- Apache NetBeans IDE 20
+
 ## Estructura del Proyecto
 
 - **index.html**: Página de inicio del sitio web.
