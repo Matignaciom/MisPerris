@@ -11,7 +11,6 @@ Este es un proyecto web para una organización dedicada al rescate y adopción d
 ## Desarrollado con
 
 - Apache NetBeans IDE 20
-- Visual studio code
 
 ## Estructura del Proyecto
 
